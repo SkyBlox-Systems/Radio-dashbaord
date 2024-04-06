@@ -1,13 +1,13 @@
-const RADIO_NAME = 'Your Radio';
+const RADIO_NAME = 'SkyBlox Systems LTD Radio';
 
 // Change Azuracast Stream URL Here, .
-const URL_STREAMING = 'https://azuracp.web-radios.eu/listen/treloparea/stream';
+const URL_STREAMING = 'https://radiobackend.skybloxsystems.com/listen/skyblox_systems/radio.mp3';
 
 //API URL Azuracast Now Playing
-const API_URL = 'https://azuracp.web-radios.eu/api/nowplaying/2';
+const API_URL = 'https://radiobackend.skybloxsystems.com/api/nowplaying/1';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
-const API_KEY = "18fe07917957c289983464588aabddfb";
+const API_KEY = "b43571d5e811f55ced6413192bbe1ef3";
 
 // Variable to control history display: true = display / false = hides
 let showHistory = true; 
